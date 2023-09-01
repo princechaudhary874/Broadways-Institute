@@ -4,6 +4,11 @@
 
 The Broadways Institute Project is a web application designed for an IT institute that provides courses and information about various IT programs and training services. This project is built using HTML and CSS, making it a responsive and visually appealing platform for students and prospective learners.
 
+## Overview
+Here is the Preview of my app-
+[![Video](https://img.youtube.com/vi/https://youtu.be/qoBz0qnr24A?si=kU08VqqkJWFdFDo9/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/qoBz0qnr24A?si=kU08VqqkJWFdFDo9)
+
+
 ## Features
 
 - **Course Catalog**: Browse through a comprehensive list of IT courses offered by the institute, with detailed descriptions, prerequisites, and durations.
