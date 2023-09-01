@@ -1,0 +1,397 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu a {
+    text-decoration: none;
+    color: #000;
+}
+
+.fs-10 {
+    font-size: 10px;
+}
+
+.fs-13 {
+    font-size: 13px;
+}
+
+.courses span {
+    background-color: orange;
+}
+
+header input {
+    width: 350px;
+}
+
+.enquiryBtn a {
+    background-color: #122c91;
+}
+
+.navigation a {
+    color: #000;
+    text-decoration: none;
+}
+
+.navigation a sup {
+    padding: 2px;
+    color: white;
+    font-size: 12px;
+    background: rgb(255, 128, 0);
+}
+
+.px-40 {
+    padding: 0 40px;
+}
+
+.navigation a:hover {
+    color: #2A6FB6;
+    border-top: 1px solid #2A6FB6;
+}
+
+.info .container-fluid {
+    color: white;
+}
+
+.info .container-fluid .row {
+    height: 100%;
+}
+
+.info .container-fluid .row .col-lg-4 {
+    background: #274595;
+}
+
+.info .container-fluid .row .col-lg-4 p {
+    font-size: 14px;
+}
+
+.getadmission a {
+    text-decoration: none;
+    color: #274595;
+    background-color: #81e9e6;
+}
+
+.info .container-fluid .upper {
+    height: 50%;
+    width: 100%;
+    background: #2A6FDB;
+}
+
+.info .container-fluid .lower {
+    width: 100%;
+    height: 50%;
+    color: #274595;
+    background: #81e9e6;
+}
+
+.coursedetail span {
+    color: rgb(255, 128, 0);
+    border-bottom: 1px solid rgb(255, 128, 0);
+}
+
+.coursedetail span:hover {
+    cursor: pointer;
+}
+
+.coursedetail .card a {
+    display: none;
+    color: #fff;
+    padding: 5rem;
+    position: absolute;
+    text-decoration: none;
+}
+
+.coursedetail .card .card-body h6 {
+    font-size: 14px;
+}
+
+.coursedetail .card .card-body p {
+    color: #717171;
+}
+
+.coursedetail .card .card-body p b {
+    color: #000;
+}
+
+.coursedetail .card:hover a {
+    display: block;
+}
+
+.coursedetail .viewallcourses a {
+    color: #122c91;
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: #fff;
+    border: 1px solid #122c91;
+    border-radius: 4px;
+}
+
+.coursestatus .divheader {
+    max-width: 705px;
+    margin: 0px auto 40px;
+}
+
+.fs-50 {
+    font-size: 50px;
+}
+
+.coursestatus .divcontent .blue-content {
+    background-color: #122c91;
+}
+
+.coursestatus .divcontent .orange-content {
+    background-color: #ec6705;
+}
+
+.coursestatus .divcontent .yellow-content {
+    background-color: #f0cc3e;
+}
+
+.placement {
+    background-color: #d5e6ff;
+}
+
+.placement .detail {
+    max-width: 705px;
+    margin: 20px auto 40px;
+}
+
+.placement .detail h2 {
+    color: #122c91;
+    padding: 30px 0px;
+}
+
+.placement .logos .imgs {
+    display: flex;
+    background: #fff;
+    padding: 0px 20px;
+}
+
+.placement .logos .imgs img {
+    height: 70px;
+}
+
+.placement .logos .imgs:hover img {
+    filter: grayscale(100%);
+}
+
+.placement .viewall a {
+    text-decoration: none;
+    color: #122c91;
+}
+
+.our-strength .head-text {
+    width: 705px;
+    margin: 40px auto 40px;
+}
+
+.our-strength .blue {
+    background-color: #0dcaf0;
+}
+
+.our-strength .green {
+    background-color: #14949f;
+}
+
+.our-strength .yellow {
+    background-color: #f7d452;
+}
+
+.our-strength .div-content {
+    color: white;
+    padding: 30px;
+    width: 75%;
+    line-height: 1.454;
+}
+
+.our-strength .div-content h1 {
+    font-size: 80px;
+}
+
+.our-strength .div-content p {
+    font-size: 22px;
+}
+
+.our-strength .frame a {
+    color: #cb9602;
+}
+
+.our-strength .frame a .circle {
+    height: 40px;
+    width: 40px;
+    font-size: 28px;
+    border-radius: 100%;
+    border: 2px solid #cb9602;
+}
+
+.our-strength .frame .art {
+    width: 112px;
+    height: 43px;
+    margin-left: 20px;
+    background: url(../img/art-01.webp) no-repeat center;
+    background-size: contain;
+}
+
+.testimonials .head-text {
+    width: 705px;
+    margin: 0px auto 40px;
+}
+
+.testimonials .frame .carousel img {
+    height: 285px;
+    width: 285px;
+    margin: 0 auto;
+    object-fit: cover;
+}
+
+.testimonials .frame .carousel-item .text {
+    padding: 20px;
+    text-align: center;
+}
+
+.testimonials .frame .carousel-item .name {
+    color: #122c91;
+    font-weight: 700;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.testimonials .frame .viewall a {
+    color: #122c91;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.success-story .head-text {
+    width: 705px;
+    margin: 0px auto 40px;
+}
+
+.success-story .padtop{
+    padding-top: 100px;
+}
+
+.success-story .profile .img {
+    top: -100px;
+    left: 120px;
+    z-index: 2;
+}
+
+.success-story .profile .img img {
+    height: 150px;
+    width: 150px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+}
+
+.success-story .profile .details {
+    min-width: 400px;
+    min-height: 250px;
+}
+
+.success-story .profile .details ul li {
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+.success-story .profile .details .labels {
+    color: #717171;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.precious-client {
+    background-color: #ededed;
+}
+
+.precious-client .head-text {
+    width: 705px;
+    margin: 0px auto 0px;
+}
+
+.precious-client .viewall a {
+    color: #122c91;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.footer .container-fluid {
+    background-color: #213688;
+    color: #fff;
+}
+
+.footer .container-fluid .row {
+    padding: 0px 50px;
+}
+
+.footer .container-fluid .row h5 {
+    padding-top: 60px;
+    padding-left: 30px;
+}
+
+.footer ul {
+    list-style-type: none;
+}
+
+.footer ul li {
+    padding: 5px 0px;
+}
+
+.footer ul li a {
+    margin: 1px;
+    font-size: 15px;
+    text-decoration: none;
+    color: rgba(255, 255, 255, .5);
+}
+
+.footer ul li a:hover {
+    color: white;
+}
+
+.footer .socialmedia {
+    padding-left: 30px;
+}
+
+.footer .socialmedia a {
+    padding: 10px;
+    border: #fff;
+    border-radius: 50%;
+    background-color: #fff;
+    display: inline-block;
+}
+
+.footer .formbtn {
+    width: fit-content;
+    padding: .9rem;
+    color: black;
+    border: #f7d452;
+    border-radius: 4px;
+    background-color: #f7d452;
+}
+
+.footer .formbtn:hover {
+    color: #fff;
+    background-color: #2A6FB6;
+}
+
+.footer .newslettersignup .signupform input {
+    width: 300px;
+    height: 55px;
+    border: 0px;
+    padding-left: 8px;
+    background: transparent;
+}
+
+.footer .copyright {
+    color: rgba(255, 255, 255, .5);
+}
