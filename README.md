@@ -6,7 +6,7 @@ The Broadways Institute Project is a web application designed for an IT institut
 
 ## Overview
 Here is the Preview of my app-
-[![Video](https://img.youtube.com/vi/https://youtu.be/qoBz0qnr24A?si=kU08VqqkJWFdFDo9/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/qoBz0qnr24A?si=kU08VqqkJWFdFDo9)
+https://github.com/princechaudhary874/Broadways-Institute/assets/118271088/3bb63bca-4335-4a6e-86c5-c317c16ac3ec
 
 
 ## Features
