@@ -29,7 +29,7 @@ The Broadways Institute Project is a web application designed for an IT institut
 
 ## Credits
 
-- Developed by [Your Name]
+- Developed by Prince Chaudhary
 - Course information and content taken from Broadways Institute
 - Images and assets sourced from https://broadwayinfosys.com/
 
