@@ -4,8 +4,7 @@
 
 The Broadways Institute Project is a web application designed for an IT institute that provides courses and information about various IT programs and training services. This project is built using HTML and CSS, making it a responsive and visually appealing platform for students and prospective learners.
 
-## Overview
-Here is the Preview of my app-
+Here is the Preview of my app:
 https://github.com/princechaudhary874/Broadways-Institute/assets/118271088/3bb63bca-4335-4a6e-86c5-c317c16ac3ec
 
 
